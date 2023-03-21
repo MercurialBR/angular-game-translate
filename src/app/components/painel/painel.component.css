@@ -1,0 +1,46 @@
+.container {
+  padding: 15px;
+  margin-top: 20px;
+  background-color: #1F1F1F;
+  border-radius: 8px;
+}
+
+.row {
+  align-items: center;
+  padding: 5px;
+}
+
+.col h6 {
+  color: white;
+  font-size: 16px;
+}
+.col p {
+  color: #c490f8;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+
+.btn-primary {
+  background-color: #771bd3;
+  border: #51039f;
+}
+.btn-primary:active {
+  background-color: #51039f;
+}
+
+textarea {
+  color: white;
+  font-size: 20px;
+  background-color: #3f3f3f;
+  border: 1px solid #c490f8;
+}
+textarea:focus {
+  color: white;
+  font-size: 20px;
+  box-shadow: none;
+  font-weight: 500;
+  background-color: #3f3f3f;
+  border: 1px solid #c490f8;
+
+}
